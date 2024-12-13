@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 first line (VSC) 1
 second line (VSC) 2
 third line (GH) 3
-=======
-1. first line (VSC)
-2. second line (VSC)
-3. third line (GH)
->>>>>>> 17060e6c682f47d00a54d476dbba5d1ac5f73b8f
