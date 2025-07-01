@@ -1,3 +1,3 @@
-### Python exercises with solutions
+### Python Coding Samples & Exercises
 
-This repository contains a collection of Python exercises and their solutions. Perfect for beginners and intermediate learners to practice and improve their coding skills.
+A repository containing various Python scripts and Jupyter Notebooks (py and ipynb files) demonstrating foundational programming, data manipulation, and problem-solving skills.
